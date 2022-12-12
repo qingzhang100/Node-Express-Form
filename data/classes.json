@@ -1,0 +1,57 @@
+[
+    {
+      "classId": 1,
+      "classCode": "DES720",
+      "classDescription": "Relational Database Design and Implementation"
+    },
+    {
+      "classId": 2,
+      "classCode": "JAV745",
+      "classDescription": "Java Programming"
+    },
+    {
+      "classId": 3,
+      "classCode": "OPS705",
+      "classDescription": "Introduction to Cloud Computing"
+    },
+    {
+      "classId": 4,
+      "classCode": "SQL710",
+      "classDescription": "Database Administration and Management"
+    },
+    {
+      "classId": 5,
+      "classCode": "WEB700",
+      "classDescription": "Web Programming"
+    },
+    {
+      "classId": 6,
+      "classCode": "CAP805",
+      "classDescription": "Applied Capstone Project"
+    },
+    {
+      "classId": 7,
+      "classCode": "CJV805",
+      "classDescription": "Database Connectivity Using Java"
+    },
+    {
+      "classId": 8,
+      "classCode": "DBD800",
+      "classDescription": "Accessing Big Data"
+    },
+    {
+      "classId": 9,
+      "classCode": "DBW825",
+      "classDescription": "Datawarehousing"
+    },
+    {
+      "classId": 10,
+      "classCode": "SEC835",
+      "classDescription": "Security in Databases and Web Applications"
+    },
+    {
+      "classId": 11,
+      "classCode": "WTP100",
+      "classDescription": "Work Term Preparation (Work-Integrated Learning option only)"
+    }
+  ]
