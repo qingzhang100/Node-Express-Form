@@ -1,3 +1,3 @@
 # Express_Form
 
-Used Express to handle HTTP GET and POST
+Use Express to handle HTTP GET and POST
