@@ -10,8 +10,6 @@
  * 5. Enter http://localhost:8080/employees/add, the form is displayed, try to enter the information accordingly and click "Add Student"
  ********************************************************************************/
 
-
-
 const express = require("express");
 const path = require("path");
 const exphbs = require("express-handlebars");
